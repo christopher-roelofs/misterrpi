@@ -1,0 +1,11 @@
+{
+        "mister_ip": "000.000.00.000",
+        "mister_username": "root",
+        "mister_password": "1",
+        "debug":false,
+        "refresh_rate": "1",
+        "core_storage": "fat",
+        "applicationid":"000000000000000000",
+        "state_text": "{game}",
+        "details_text": "{displayname}"
+}
