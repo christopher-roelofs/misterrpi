@@ -16,11 +16,11 @@ You can find a compiled windows version built via pyinstaller in the releases se
 
 **Setup an appication in Discord that will be used for this integration**
 
-*Navigate to https://discordapp.com/developers/
-*Click “Create an Application.”
-*Setup the application how you want, name in MiSTer , and give it a good image.
-*Right under the name of your application, locate your Client ID. You will need this later.
-*Lastly, save your application.
+* Navigate to https://discordapp.com/developers/
+* Click “Create an Application.”
+* Setup the application how you want, name in MiSTer , and give it a good image.
+* Right under the name of your application, locate your Client ID. You will need this later.
+* Lastly, save your application.
 
 
 Update **config.json** with your details:
