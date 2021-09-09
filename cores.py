@@ -29,7 +29,10 @@ def build_system_map():
     
         core = {}
         core['description'] = "{} core".format(corename)
-
+        core['small_image'] = ""
+        core['small_text'] = ""
+        core['large_image'] = ""
+        core['large_text'] = ""
         cores[corename] = core
     return cores
 

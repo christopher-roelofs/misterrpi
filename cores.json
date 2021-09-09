@@ -1,608 +1,1416 @@
 {
     "menu": {
-        "description": "menu core"
+        "description": "menu core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Arkanoid": {
-        "description": "Arkanoid core"
+        "description": "Arkanoid core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "AsteroidsDeluxe": {
-        "description": "AsteroidsDeluxe core"
+        "description": "AsteroidsDeluxe core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Asteroids": {
-        "description": "Asteroids core"
+        "description": "Asteroids core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Astrocade": {
-        "description": "Astrocade core"
+        "description": "Astrocade core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "AtariTetris": {
-        "description": "AtariTetris core"
+        "description": "AtariTetris core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Bagman": {
-        "description": "Bagman core"
+        "description": "Bagman core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Berzerk": {
-        "description": "Berzerk core"
+        "description": "Berzerk core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "BlackWidow": {
-        "description": "BlackWidow core"
+        "description": "BlackWidow core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "BombJack": {
-        "description": "BombJack core"
+        "description": "BombJack core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Breakout": {
-        "description": "Breakout core"
+        "description": "Breakout core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "BurgerTime": {
-        "description": "BurgerTime core"
+        "description": "BurgerTime core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "BurningRubber": {
-        "description": "BurningRubber core"
+        "description": "BurningRubber core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "CanyonBomber": {
-        "description": "CanyonBomber core"
+        "description": "CanyonBomber core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Cave": {
-        "description": "Cave core"
+        "description": "Cave core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Centipede": {
-        "description": "Centipede core"
+        "description": "Centipede core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "ComputerSpace": {
-        "description": "ComputerSpace core"
+        "description": "ComputerSpace core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "CosmicAvenger": {
-        "description": "CosmicAvenger core"
+        "description": "CosmicAvenger core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Cosmic": {
-        "description": "Cosmic core"
+        "description": "Cosmic core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "CrazyBalloon": {
-        "description": "CrazyBalloon core"
+        "description": "CrazyBalloon core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "CrazyClimber": {
-        "description": "CrazyClimber core"
+        "description": "CrazyClimber core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "CrazyKong": {
-        "description": "CrazyKong core"
+        "description": "CrazyKong core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Defender": {
-        "description": "Defender core"
+        "description": "Defender core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "DigDug": {
-        "description": "DigDug core"
+        "description": "DigDug core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Dominos": {
-        "description": "Dominos core"
+        "description": "Dominos core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "DonkeyKong3": {
-        "description": "DonkeyKong3 core"
+        "description": "DonkeyKong3 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "DonkeyKongJunior": {
-        "description": "DonkeyKongJunior core"
+        "description": "DonkeyKongJunior core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "DonkeyKong": {
-        "description": "DonkeyKong core"
+        "description": "DonkeyKong core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Dorodon": {
-        "description": "Dorodon core"
+        "description": "Dorodon core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "DottoriKun": {
-        "description": "DottoriKun core"
+        "description": "DottoriKun core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Druaga": {
-        "description": "Druaga core"
+        "description": "Druaga core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "FoodFight": {
-        "description": "FoodFight core"
+        "description": "FoodFight core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Frenzy": {
-        "description": "Frenzy core"
+        "description": "Frenzy core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Galaga": {
-        "description": "Galaga core"
+        "description": "Galaga core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Galaxian": {
-        "description": "Galaxian core"
+        "description": "Galaxian core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Gaplus": {
-        "description": "Gaplus core"
+        "description": "Gaplus core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Gauntlet": {
-        "description": "Gauntlet core"
+        "description": "Gauntlet core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "GnG": {
-        "description": "GnG core"
+        "description": "GnG core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Gyruss": {
-        "description": "Gyruss core"
+        "description": "Gyruss core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "IremM62": {
-        "description": "IremM62 core"
+        "description": "IremM62 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "IronHorse": {
-        "description": "IronHorse core"
+        "description": "IronHorse core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Jackal": {
-        "description": "Jackal core"
+        "description": "Jackal core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "LadyBug": {
-        "description": "LadyBug core"
+        "description": "LadyBug core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "LunarLander": {
-        "description": "LunarLander core"
+        "description": "LunarLander core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "MCR1": {
-        "description": "MCR1 core"
+        "description": "MCR1 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "MCR2": {
-        "description": "MCR2 core"
+        "description": "MCR2 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "MCR3Mono": {
-        "description": "MCR3Mono core"
+        "description": "MCR3Mono core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "MCR3Scroll": {
-        "description": "MCR3Scroll core"
+        "description": "MCR3Scroll core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "MCR3": {
-        "description": "MCR3 core"
+        "description": "MCR3 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "MarioBros": {
-        "description": "MarioBros core"
+        "description": "MarioBros core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "MoonPatrol": {
-        "description": "MoonPatrol core"
+        "description": "MoonPatrol core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "MrDo": {
-        "description": "MrDo core"
+        "description": "MrDo core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "NinjaKun": {
-        "description": "NinjaKun core"
+        "description": "NinjaKun core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Pacman": {
-        "description": "Pacman core"
+        "description": "Pacman core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Pengo": {
-        "description": "Pengo core"
+        "description": "Pengo core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "PenguinKunWars": {
-        "description": "PenguinKunWars core"
+        "description": "PenguinKunWars core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Phoenix": {
-        "description": "Phoenix core"
+        "description": "Phoenix core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Pleiads": {
-        "description": "Pleiads core"
+        "description": "Pleiads core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "PolyPlay": {
-        "description": "PolyPlay core"
+        "description": "PolyPlay core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Pong": {
-        "description": "Pong core"
+        "description": "Pong core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Pooyan": {
-        "description": "Pooyan core"
+        "description": "Pooyan core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Popeye": {
-        "description": "Popeye core"
+        "description": "Popeye core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "QBert": {
-        "description": "QBert core"
+        "description": "QBert core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "RallyX": {
-        "description": "RallyX core"
+        "description": "RallyX core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "RiverPatrol": {
-        "description": "RiverPatrol core"
+        "description": "RiverPatrol core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Robotron": {
-        "description": "Robotron core"
+        "description": "Robotron core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "RshnAtk": {
-        "description": "RshnAtk core"
+        "description": "RshnAtk core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "SEGASYS1": {
-        "description": "SEGASYS1 core"
+        "description": "SEGASYS1 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Scramble": {
-        "description": "Scramble core"
+        "description": "Scramble core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "SilverLand": {
-        "description": "SilverLand core"
+        "description": "SilverLand core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "SnapJack": {
-        "description": "SnapJack core"
+        "description": "SnapJack core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "SolomonsKey": {
-        "description": "SolomonsKey core"
+        "description": "SolomonsKey core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "SpaceInvaders": {
-        "description": "SpaceInvaders core"
+        "description": "SpaceInvaders core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "SpaceRace": {
-        "description": "SpaceRace core"
+        "description": "SpaceRace core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Sprint1": {
-        "description": "Sprint1 core"
+        "description": "Sprint1 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Sprint2": {
-        "description": "Sprint2 core"
+        "description": "Sprint2 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "SuperBreakout": {
-        "description": "SuperBreakout core"
+        "description": "SuperBreakout core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "TIAMC1": {
-        "description": "TIAMC1 core"
+        "description": "TIAMC1 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Tecmo": {
-        "description": "Tecmo core"
+        "description": "Tecmo core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "TimePilot84": {
-        "description": "TimePilot84 core"
+        "description": "TimePilot84 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "TimePilot": {
-        "description": "TimePilot core"
+        "description": "TimePilot core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "TraverseUSA": {
-        "description": "TraverseUSA core"
+        "description": "TraverseUSA core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Ultratank": {
-        "description": "Ultratank core"
+        "description": "Ultratank core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "VBall": {
-        "description": "VBall core"
+        "description": "VBall core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Xevious": {
-        "description": "Xevious core"
+        "description": "Xevious core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Zaxxon": {
-        "description": "Zaxxon core"
+        "description": "Zaxxon core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "ZigZag": {
-        "description": "ZigZag core"
+        "description": "ZigZag core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jt1942": {
-        "description": "jt1942 core"
+        "description": "jt1942 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jt1943": {
-        "description": "jt1943 core"
+        "description": "jt1943 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jtbiocom": {
-        "description": "jtbiocom core"
+        "description": "jtbiocom core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jtbtiger": {
-        "description": "jtbtiger core"
+        "description": "jtbtiger core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jtbubl": {
-        "description": "jtbubl core"
+        "description": "jtbubl core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jtcommando": {
-        "description": "jtcommando core"
+        "description": "jtcommando core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jtcomsc": {
-        "description": "jtcomsc core"
+        "description": "jtcomsc core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jtcontra": {
-        "description": "jtcontra core"
+        "description": "jtcontra core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jtcps15": {
-        "description": "jtcps15 core"
+        "description": "jtcps15 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jtcps1": {
-        "description": "jtcps1 core"
+        "description": "jtcps1 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jtcps2": {
-        "description": "jtcps2 core"
+        "description": "jtcps2 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jtdd2": {
-        "description": "jtdd2 core"
+        "description": "jtdd2 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jtdd": {
-        "description": "jtdd core"
+        "description": "jtdd core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jtexed": {
-        "description": "jtexed core"
+        "description": "jtexed core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jtf1dream": {
-        "description": "jtf1dream core"
+        "description": "jtf1dream core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jtgng": {
-        "description": "jtgng core"
+        "description": "jtgng core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jtgunsmoke": {
-        "description": "jtgunsmoke core"
+        "description": "jtgunsmoke core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jthige": {
-        "description": "jthige core"
+        "description": "jthige core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jtlabrun": {
-        "description": "jtlabrun core"
+        "description": "jtlabrun core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jtmx5k": {
-        "description": "jtmx5k core"
+        "description": "jtmx5k core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jtrumble": {
-        "description": "jtrumble core"
+        "description": "jtrumble core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jts16": {
-        "description": "jts16 core"
+        "description": "jts16 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jts16a2": {
-        "description": "jts16a2 core"
+        "description": "jts16a2 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jts16b1": {
-        "description": "jts16b1 core"
+        "description": "jts16b1 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jts16b": {
-        "description": "jts16b core"
+        "description": "jts16b core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jtsarms": {
-        "description": "jtsarms core"
+        "description": "jtsarms core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jtsectionz": {
-        "description": "jtsectionz core"
+        "description": "jtsectionz core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jtsf": {
-        "description": "jtsf core"
+        "description": "jtsf core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jttora": {
-        "description": "jttora core"
+        "description": "jttora core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jttrojan": {
-        "description": "jttrojan core"
+        "description": "jttrojan core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "jtvulgus": {
-        "description": "jtvulgus core"
+        "description": "jtvulgus core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "AcornAtom": {
-        "description": "AcornAtom core"
+        "description": "AcornAtom core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "AliceMC10": {
-        "description": "AliceMC10 core"
+        "description": "AliceMC10 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Altair8800": {
-        "description": "Altair8800 core"
+        "description": "Altair8800 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Amstrad-PCW": {
-        "description": "Amstrad-PCW core"
+        "description": "Amstrad-PCW core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Amstrad": {
-        "description": "Amstrad core"
+        "description": "Amstrad core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Apogee": {
-        "description": "Apogee core"
+        "description": "Apogee core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Apple-II": {
-        "description": "Apple-II core"
+        "description": "Apple-II core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Apple-I": {
-        "description": "Apple-I core"
+        "description": "Apple-I core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Aquarius": {
-        "description": "Aquarius core"
+        "description": "Aquarius core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Archie": {
-        "description": "Archie core"
+        "description": "Archie core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Atari800": {
-        "description": "Atari800 core"
+        "description": "Atari800 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "AtariST": {
-        "description": "AtariST core"
+        "description": "AtariST core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "BBCMicro": {
-        "description": "BBCMicro core"
+        "description": "BBCMicro core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "BK0011M": {
-        "description": "BK0011M core"
+        "description": "BK0011M core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "C16": {
-        "description": "C16 core"
+        "description": "C16 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "C64": {
-        "description": "C64 core"
+        "description": "C64 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "CoCo2": {
-        "description": "CoCo2 core"
+        "description": "CoCo2 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "EDSAC": {
-        "description": "EDSAC core"
+        "description": "EDSAC core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Galaksija": {
-        "description": "Galaksija core"
+        "description": "Galaksija core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Interact": {
-        "description": "Interact core"
+        "description": "Interact core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Jupiter": {
-        "description": "Jupiter core"
+        "description": "Jupiter core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Laser310": {
-        "description": "Laser310 core"
+        "description": "Laser310 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "MSX": {
-        "description": "MSX core"
+        "description": "MSX core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "MacPlus": {
-        "description": "MacPlus core"
+        "description": "MacPlus core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Minimig": {
-        "description": "Minimig core"
+        "description": "Minimig core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "MultiComp": {
-        "description": "MultiComp core"
+        "description": "MultiComp core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "ORAO": {
-        "description": "ORAO core"
+        "description": "ORAO core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Oric": {
-        "description": "Oric core"
+        "description": "Oric core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "PDP1": {
-        "description": "PDP1 core"
+        "description": "PDP1 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "PET2001": {
-        "description": "PET2001 core"
+        "description": "PET2001 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "QL": {
-        "description": "QL core"
+        "description": "QL core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "RX78": {
-        "description": "RX78 core"
+        "description": "RX78 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "SAMCoupe": {
-        "description": "SAMCoupe core"
+        "description": "SAMCoupe core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "SharpMZ": {
-        "description": "SharpMZ core"
+        "description": "SharpMZ core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Specialist": {
-        "description": "Specialist core"
+        "description": "Specialist core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Svi328": {
-        "description": "Svi328 core"
+        "description": "Svi328 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "TRS-80": {
-        "description": "TRS-80 core"
+        "description": "TRS-80 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "TSConf": {
-        "description": "TSConf core"
+        "description": "TSConf core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Ti994a": {
-        "description": "Ti994a core"
+        "description": "Ti994a core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "UK101": {
-        "description": "UK101 core"
+        "description": "UK101 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "VIC20": {
-        "description": "VIC20 core"
+        "description": "VIC20 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Vector-06C": {
-        "description": "Vector-06C core"
+        "description": "Vector-06C core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "X68000": {
-        "description": "X68000 core"
+        "description": "X68000 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "ZX-Spectrum": {
-        "description": "ZX-Spectrum core"
+        "description": "ZX-Spectrum core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "ZX81": {
-        "description": "ZX81 core"
+        "description": "ZX81 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "ZXNext": {
-        "description": "ZXNext core"
+        "description": "ZXNext core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "ao486": {
-        "description": "ao486 core"
+        "description": "ao486 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "ht1080z": {
-        "description": "ht1080z core"
+        "description": "ht1080z core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "zx48": {
-        "description": "zx48 core"
+        "description": "zx48 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "AY-3-8500": {
-        "description": "AY-3-8500 core"
+        "description": "AY-3-8500 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Atari2600": {
-        "description": "Atari2600 core"
+        "description": "Atari2600 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Atari5200": {
-        "description": "Atari5200 core"
+        "description": "Atari5200 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Atari7800": {
-        "description": "Atari7800 core"
+        "description": "Atari7800 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "AtariLynx": {
-        "description": "AtariLynx core"
+        "description": "AtariLynx core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Chip8": {
-        "description": "Chip8 core"
+        "description": "Chip8 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "ColecoVision": {
-        "description": "ColecoVision core"
+        "description": "ColecoVision core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "GAMEGEAR": {
-        "description": "GAMEGEAR core"
+        "description": "GAMEGEAR core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "GBA": {
-        "description": "GBA core"
+        "description": "GBA core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "GBC": {
-        "description": "GBC core"
+        "description": "GBC core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "GameboyColor": {
-        "description": "GameboyColor core"
+        "description": "GameboyColor core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Gameboy": {
-        "description": "Gameboy core"
+        "description": "Gameboy core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Genesis": {
-        "description": "Genesis core"
+        "description": "Genesis core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Intellivision": {
-        "description": "Intellivision core"
+        "description": "Intellivision core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "MegaCD": {
-        "description": "MegaCD core"
+        "description": "MegaCD core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "NES": {
-        "description": "NES core"
+        "description": "NES core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "NeoGeo": {
-        "description": "NeoGeo core"
+        "description": "NeoGeo core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Odyssey2": {
-        "description": "Odyssey2 core"
+        "description": "Odyssey2 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "SG-1000C": {
-        "description": "SG-1000C core"
+        "description": "SG-1000C core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "SG-1000": {
-        "description": "SG-1000 core"
+        "description": "SG-1000 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "SG1000": {
-        "description": "SG1000 core"
+        "description": "SG1000 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "SMS": {
-        "description": "SMS core"
+        "description": "SMS core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "SNES": {
-        "description": "SNES core"
+        "description": "SNES core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "TurboGrafx16": {
-        "description": "TurboGrafx16 core"
+        "description": "TurboGrafx16 core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Vectrex": {
-        "description": "Vectrex core"
+        "description": "Vectrex core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "WonderSwan": {
-        "description": "WonderSwan core"
+        "description": "WonderSwan core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Arduboy": {
-        "description": "Arduboy core"
+        "description": "Arduboy core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "Chess": {
-        "description": "Chess core"
+        "description": "Chess core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "EpochGalaxyII": {
-        "description": "EpochGalaxyII core"
+        "description": "EpochGalaxyII core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "FlappyBird": {
-        "description": "FlappyBird core"
+        "description": "FlappyBird core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "GameOfLife": {
-        "description": "GameOfLife core"
+        "description": "GameOfLife core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "TomyScramble": {
-        "description": "TomyScramble core"
+        "description": "TomyScramble core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "ADCTest": {
-        "description": "ADCTest core"
+        "description": "ADCTest core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "InputTest": {
-        "description": "InputTest core"
+        "description": "InputTest core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     },
     "memtest": {
-        "description": "memtest core"
+        "description": "memtest core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
     }
 }
