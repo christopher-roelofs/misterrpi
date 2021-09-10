@@ -475,6 +475,13 @@
         "large_image": "",
         "large_text": ""
     },
+    "SMS": {
+        "description": "SMS core",
+        "small_image": "",
+        "small_text": "",
+        "large_image": "",
+        "large_text": ""
+    },
     "Scramble": {
         "description": "Scramble core",
         "small_image": "",
@@ -1310,13 +1317,6 @@
     },
     "SG1000": {
         "description": "SG1000 core",
-        "small_image": "",
-        "small_text": "",
-        "large_image": "",
-        "large_text": ""
-    },
-    "SMS": {
-        "description": "SMS core",
         "small_image": "",
         "small_text": "",
         "large_image": "",
