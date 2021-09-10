@@ -40,6 +40,7 @@ Update **config.json** with your details:
 * large_text -  The hover text for the large image.
 * small_image - The small image that will be displayed. Must be added to the art assets in Discord. If the image is not uploaded to Discord, it will not be displayed.
 * small_text - The hover text for the small image.
+* buttons - an array of up to 2 buttons. Each button is a json object with 2 values, label and url. The buttons will show at the bottom of the info section.
 
 ```json
 {
@@ -55,7 +56,8 @@ Update **config.json** with your details:
         "small_text": "",
         "small_image": "",
         "large_text": "",
-        "large_image": "misterkun"
+        "large_image": "misterkun",
+        "buttons": [{"label": "MiSTerRPI Github", "url": "https://github.com/christopher-roelofs/misterrpi"}]
 }
 ```
 
