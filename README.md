@@ -77,7 +77,9 @@ Update **config.json** with your details:
         "description": "GBA Core",
         "display_name": "Nintendo Gameboy Advanced",
         "large_image": "",
-        "large_text": ""
+        "large_text": "",
+        "small_text": "",
+        "small_image": ""
     }
 }
 ```
