@@ -36,6 +36,15 @@ while True:
         small_image = SETTINGS['small_image']
         large_image = SETTINGS['large_image']
         large_text = SETTINGS['large_text']
+        buttons = None
+
+        if "buttons" in SETTINGS:
+            if SETTINGS['buttons'] != "":
+                buttons = SETTINGS['buttons']
+
+        if "buttons" in map_core:
+            if map_core["buttons"] != "":
+                buttons = map_core["buttons"]
 
         if "state_text" in map_core:
             state_text = map_core["details_text"]
@@ -66,10 +75,10 @@ while True:
         details_text = replace_text(core,game,displayname,details_text)
 
         if game != "" and game != last_game:
-            discord.update_activity(details_text,state_text,large_image,large_text,small_image,small_text)
+            discord.update_activity(details_text,state_text,large_image,large_text,small_image,small_text,buttons)
                         
         if core != last_core:
-            discord.update_activity(details_text,state_text,large_image,large_text,small_image,small_text)
+            discord.update_activity(details_text,state_text,large_image,large_text,small_image,small_text,buttons)
 
         last_core = core
         last_game = game

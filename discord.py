@@ -10,7 +10,7 @@ client_id = SETTINGS['application_id']
 RPC = Presence(client_id,pipe=0)  # Initialize the client class
 RPC.connect() # Start the handshake loop
 
-def update_activity(details,state,large_image=None,large_text=None,small_image=None,small_text=None):
+def update_activity(details,state,large_image=None,large_text=None,small_image=None,small_text=None,buttons=None):
     if state == "":
         state = None
     if large_image == "":
@@ -21,10 +21,11 @@ def update_activity(details,state,large_image=None,large_text=None,small_image=N
         small_image = None
     if small_text == "":
         small_text = None
-    RPC.update(details=details, state=state, start=time.time(),large_image=large_image,large_text=large_text,small_image=small_image,small_text=small_text)  # Set the presence
+    RPC.update(details=details, state=state, start=time.time(),large_image=large_image,large_text=large_text,small_image=small_image,small_text=small_text,buttons=buttons)  # Set the presence
 
 
 if __name__ == "__main__":
     while True:
-        update_activity("Console","Game","segacd",None,None,None)
+        buttons = [{"label": "Button 1", "url": "https://www.google.com"},{"label": "Button 2", "url": "https://www.google.com"}]
+        update_activity("Console","Game","segacd",None,None,None,buttons)
         time.sleep(100000)
