@@ -44,7 +44,7 @@ Update **config.json** with your details:
 
 ```json
 {
-        "mister_ip": "000.000.00.000",
+        "mister_ip": "MiSTer",
         "mister_username": "root",
         "mister_password": "1",
         "debug":false,
