@@ -25,7 +25,7 @@ You can find a compiled windows version built via pyinstaller in the releases se
 
 Update **config.json** with your details:
 
-* mister_ip - ip address of MiSTer.
+* mister_ip - ip address or hostname of MiSTer.
 * mister_username - ssh username for MiSTer.
 * mister_password - ssh password for MiSTer.
 * debug - enable/disable debug logs.
